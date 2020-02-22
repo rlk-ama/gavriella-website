@@ -1,0 +1,26 @@
+#answer,
+#show,
+#hide:target {
+  display: none; 
+}
+
+#hide:target ~ #show,
+#hide:target ~ #answer {
+  display: inherit; 
+}
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+a:hover {
+  color: inherit;
+  text-decoration: inherit;
+}
+#answer {
+  color: #696969;
+}
+
+.menu {
+  margin-top: 5%;
+  margin-left: 2%;
+}
