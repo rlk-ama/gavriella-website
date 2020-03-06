@@ -67,3 +67,18 @@ ul.menu-l li {
   margin-top: 5px;
   margin-right: 15px;
 }
+
+.citation {
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+.image_rene_prou {
+    width: 100%;
+    height: 120px;
+}
+
+.image_rene_prou img {
+    width: 100%;
+    height: 100%;
+}
