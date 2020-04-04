@@ -53,6 +53,7 @@ button {
   top: 0;
   right: 0;
   background: #D0D0D0;
+  z-index: 1;
 }
 
 ul.menu-l {
