@@ -37,7 +37,6 @@ a:hover {
 
 .menu {
   margin-top: 5%;
-  margin-left: 2%;
 }
 
 button {
@@ -97,3 +96,34 @@ ul.menu-l li {
   font-weight: bold;
   font-size: 1.2rem;
 }
+
+.gav {
+  image-orientation: from-image;
+}
+
+.gavriella a {
+  color: inherit;
+  text-decoration: inherit;
+}
+.gavriella a:hover {
+  color: grey;
+  text-decoration: inherit;
+}
+
+.small_v {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.reach_out a {
+  color: inherit;
+  text-decoration: inherit;
+}
+.reach_out a:hover {
+  color: grey;
+  text-decoration: inherit;
+}
+.reach_out {
+  font-weight: bold;
+}
+
